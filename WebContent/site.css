@@ -2,6 +2,7 @@
 		font-family: "Crimson Text", serif;
 		background-color: #F2FFFC;
 		font-size: 120%; 
+   		line-height: 1.5;
 	}
 	main h1, h2 {
     	font-family:  "Open Sans Condensed", sans-serif;
@@ -12,7 +13,7 @@
     	color: #FFF;
     	text-align: center;
     	padding: 25px;
-    	margin: 0px;
+    	margin: 0px; 
    	}
    	main div{
    		width: 720px;
@@ -23,7 +24,7 @@
    		color: #851944;
    		font-family: "Open Sans Condensed", sans-serif;
    	}
-   	p{
+   	main p{
    		text-align: justify;
    	}
    	article footer{
