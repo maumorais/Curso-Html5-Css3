@@ -81,6 +81,7 @@
 	.link-navegacao {
 		color: inherit;
    		font-family: "Open Sans Condensed", sans-serif;
+   		text-transform: lowercase;
 	}
 	.icones-redes-sociais li{
 		display: inline-block;
@@ -89,7 +90,8 @@
 		width: 40px;
 		height: 40px;
 		display: inline-block;
-		text-indent: -9999px;
+		/* text-indent: -9999px; */
+		font-size: 0px;
 	}
 	#github-icon{
 		background-image: url(github.png);
