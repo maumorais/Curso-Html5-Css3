@@ -18,6 +18,7 @@
  		border-bottom: 10px;
 		border-color: black;
 		border-style: solid;
+		text-transform: uppercase;
    	}
    	.subtitulo{
    		font-size: 30px;
@@ -47,6 +48,14 @@
    		background-color: inherit;
    		color: inherit;
    	}
+   	.link-leia-mais{
+   		padding: 8px;
+   		margin: 16px;
+   		display: block;
+		font-size: 24px;
+   		text-align: center;
+   		background-color: #E6E7E8;
+   	}
    	.recomendacao {
 		background-color: #D9E5E3;
 		padding: 20px;
@@ -75,6 +84,21 @@
 	}
 	.icones-redes-sociais li{
 		display: inline-block;
+	}
+	.icones-redes-sociais a {
+		width: 40px;
+		height: 40px;
+		display: inline-block;
+		text-indent: -9999px;
+	}
+	#github-icon{
+		background-image: url(github.png);
+	}
+	#twitter-icon{
+		background-image: url(twitter.png);
+	}
+	#linkedin-icon{
+		background-image: url(linkedin.png);
 	}
 	footer{
 		background-color: black;
