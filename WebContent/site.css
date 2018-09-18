@@ -18,6 +18,9 @@
 		border-color: black;
 		border-style: solid;
    	}
+   	main h2{
+   		font-size: 40px;
+   	}
    	main div{
    		width: 720px;
    		margin-left: auto;
@@ -29,6 +32,7 @@
    	}
    	main p{
    		text-align: justify;
+   		margin: 20px 0px;
    	}
    	article footer{
    		background-color: inherit;
