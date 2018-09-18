@@ -1,14 +1,18 @@
 	body {
 		font-family: "Crimson Text", serif;
 		background-color: #F2FFFC;
+		font-size: 120%;
 	}
 	main h1, h2 {
     	font-family:  "Open Sans Condensed", sans-serif;
 	}
    	main h1 {
+   		font-size: 60px;
     	background-color: #851944;
     	color: #FFF;
     	text-align: center;
+    	padding: 20px;
+    	margin: 0px;
    	}
    	main a{
    		color: #851944;
@@ -23,6 +27,13 @@
    	}
    	blockquote {
 		background-color: #D9E5E3;
+		padding: 16px;
+		border: 10px;
+		border-color: #C2CCCA;
+		border-style: solid;
+		width: 250px;
+		margin: 0px;
+		box-sizing: border-box;
 	}
 	aside{
 		background-color: #3C1D3D;
