@@ -65,6 +65,12 @@
 		color: inherit;
    		font-family: "Open Sans Condensed", sans-serif;
 	}
+	aside nav li{
+		display: block;
+	}
+	aside li{
+		display: inline-block;
+	}
 	footer{
 		background-color: black;
 		color: #F2FFFC;
