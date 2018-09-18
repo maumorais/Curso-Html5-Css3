@@ -66,10 +66,7 @@
 		color: inherit;
    		font-family: "Open Sans Condensed", sans-serif;
 	}
-	aside nav li{
-		display: block;
-	}
-	aside li{
+	.icones-sociais li{
 		display: inline-block;
 	}
 	footer{
