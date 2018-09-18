@@ -47,6 +47,14 @@
    		background-color: inherit;
    		color: inherit;
    	}
+   	.link-leia-mais{
+   		padding: 8px;
+   		margin: 16px;
+   		display: block;
+		font-size: 24px;
+   		text-align: center;
+   		background-color: #E6E7E8;
+   	}
    	.recomendacao {
 		background-color: #D9E5E3;
 		padding: 20px;
