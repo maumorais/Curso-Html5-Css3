@@ -1,7 +1,7 @@
 	body {
 		font-family: "Crimson Text", serif;
 		background-color: #F2FFFC;
-		font-size: 120%;
+		font-size: 120%; 
 	}
 	main h1, h2 {
     	font-family:  "Open Sans Condensed", sans-serif;
@@ -44,6 +44,9 @@
 		background-color: #3C1D3D;
 		color: #F2FFFC;
 		padding: 20px;
+	}
+	aside div{
+		text-align: center;
 	}
 	aside a {
 		color: inherit;
