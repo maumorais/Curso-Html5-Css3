@@ -129,13 +129,13 @@
 		font-size: 0px;
 	}
 	#github-icon{
-		background-image: url(github.png);
+		background-image: url(../img/github.png);
 	}
 	#twitter-icon{
-		background-image: url(twitter.png);
+		background-image: url(../img/twitter.png);
 	}
 	#linkedin-icon{
-		background-image: url(linkedin.png);
+		background-image: url(../img/linkedin.png);
 	}
 	.page-footer{
 		background-color: black;
