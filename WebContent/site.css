@@ -78,18 +78,26 @@
 	.recomendacao-par{
 		float:left;
 	}
-	.foto-joao{
+	cite{
 		float: right;
+		font-style: italic;
+	}
+	.foto-joao, .navegacao-site{
+		float:right;
+		box-sizing: border-box;
+		border-bottom: 10px;
+		border-left: 10px;
+   		border-color: black;
+   		border-style: solid;
+	}
+	.foto-joao{
 		width: 15%;	
 	}
 	.navegacao-site {
 		background-color: #3C1D3D;
 		color: #F2FFFC;
 		padding: 20px;
-		float:right;
-		clear:right;
-		width: 15%;	
-		box-sizing: border-box;
+		width: 15%;			
 	}
 	.titulo-navegacao{
 		font-size: 30px;
